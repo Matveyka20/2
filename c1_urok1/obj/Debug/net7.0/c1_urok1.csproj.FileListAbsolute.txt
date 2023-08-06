@@ -1,0 +1,15 @@
+C:\C1\c1_urok1\bin\Debug\net7.0\c1_urok1.exe
+C:\C1\c1_urok1\bin\Debug\net7.0\c1_urok1.deps.json
+C:\C1\c1_urok1\bin\Debug\net7.0\c1_urok1.runtimeconfig.json
+C:\C1\c1_urok1\bin\Debug\net7.0\c1_urok1.dll
+C:\C1\c1_urok1\bin\Debug\net7.0\c1_urok1.pdb
+C:\C1\c1_urok1\obj\Debug\net7.0\c1_urok1.csproj.AssemblyReference.cache
+C:\C1\c1_urok1\obj\Debug\net7.0\c1_urok1.GeneratedMSBuildEditorConfig.editorconfig
+C:\C1\c1_urok1\obj\Debug\net7.0\c1_urok1.AssemblyInfoInputs.cache
+C:\C1\c1_urok1\obj\Debug\net7.0\c1_urok1.AssemblyInfo.cs
+C:\C1\c1_urok1\obj\Debug\net7.0\c1_urok1.csproj.CoreCompileInputs.cache
+C:\C1\c1_urok1\obj\Debug\net7.0\c1_urok1.dll
+C:\C1\c1_urok1\obj\Debug\net7.0\refint\c1_urok1.dll
+C:\C1\c1_urok1\obj\Debug\net7.0\c1_urok1.pdb
+C:\C1\c1_urok1\obj\Debug\net7.0\c1_urok1.genruntimeconfig.cache
+C:\C1\c1_urok1\obj\Debug\net7.0\ref\c1_urok1.dll
